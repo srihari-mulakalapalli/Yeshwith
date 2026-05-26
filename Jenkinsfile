@@ -6,6 +6,7 @@ pipeline {
     stage('Test') {
       steps {
         sh 'node --version 22'
+        srihari
       }
     }
   }
