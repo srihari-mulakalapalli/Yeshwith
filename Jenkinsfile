@@ -8,6 +8,7 @@ pipeline {
         sh 'node --version 5'
         srihari
         Mulakalapalli
+        Palvancha
       }
     }
   }
