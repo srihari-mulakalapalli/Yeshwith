@@ -7,6 +7,7 @@ pipeline {
       steps {
         sh 'node --version 5'
         srihari
+        Mulakalapalli
       }
     }
   }
