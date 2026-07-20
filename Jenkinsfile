@@ -7,7 +7,10 @@ pipeline {
       steps {
         sh 'node --version 5'
         srihari
-        palvancha
+        Now this belongs to changes-july-2026
+        Mulakalapalli
+        Palvancha
+        seetharamapatnam
       }
     }
   }
