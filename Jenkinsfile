@@ -9,6 +9,7 @@ pipeline {
         srihari
         Mulakalapalli
         Palvancha
+        seetharamapatnam
       }
     }
   }
